@@ -1,30 +1,18 @@
-### Sobre mim
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=natansalvadorligabo&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=natansalvadorligabo&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=natansalvadorligabo&show_icons=true" />
-</picture>
+## Estatísticas GitHub
 
-  ##
+| ![Estatísticas Gerais](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=natansalvadorligabo&theme=github_dark) | ![Repositórios por Linguagem](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=natansalvadorligabo&theme=github_dark) | ![Linguagem Mais Utilizada](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=natansalvadorligabo&theme=github_dark) |
+| --- | --- | --- |
+
+| ![Detalhes do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natansalvadorligabo&theme=github_dark) | ![Estatísticas de Atividade](https://github-readme-streak-stats.herokuapp.com?user=natansalvadorligabo&theme=github-dark&hide_border=true) |
+| --- | --- |
+
+
 ### Linguagens
-          
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Natan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Natan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Natan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Natan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Natan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Natan-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Natan-Icons" src="https://skillicons.dev/icons?i=html,css,js,typescript,c,java">
 </div>
-         
- ### Redes sociais
-<div> 
-  <a href="https://www.linkedin.com/in/natansalvadorligabo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:natan.ligabo@aluno.ifsp.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
+### Contato
+
+Você pode me encontrar em outras plataformas clicando [aqui](https://natansalvadorligabo.github.io/portfolio/src/pages/lobby.html).
