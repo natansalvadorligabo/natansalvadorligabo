@@ -10,7 +10,7 @@
 ### Tecnologias
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Natan-Icons" src="https://skillicons.dev/icons?i=html,css,js,typescript,tailwindcss,c,java,mysql,mongodb,postgres,oracle">
+  <img align="center" alt="Natan-Icons" src="https://skillicons.dev/icons?i=html,css,js,typescript,tailwindcss,angular,java,mysql,mongodb,postgres,oracle">
 </div>
 
 ### Contato
