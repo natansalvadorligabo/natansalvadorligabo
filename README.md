@@ -10,6 +10,7 @@
 ### Tecnologias
 Backend: 
 ![Java](https://img.shields.io/badge/-Java-eb2324?style=flat-square&logo=java)
+![PL/SQL](https://img.shields.io/badge/-PL/SQL-cb4434?style=flat-square&logo=plsql&logoColor=white)
 
 Frontend:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -22,7 +23,6 @@ Frontend:
 
 Database:
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/-PL/SQL-cb4434?style=flat-square&logo=plsql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-346494?style=flat-square&logo=postgresql&logoColor=white)
