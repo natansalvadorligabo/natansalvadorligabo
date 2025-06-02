@@ -26,6 +26,10 @@ Database:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-346494?style=flat-square&logo=postgresql&logoColor=white)
 
+Mobile:
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=Kotlin)
+![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
+
 Tools:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
