@@ -38,7 +38,7 @@
   <g transform="translate(0 424)"><g class="line" style="animation-delay:3.53s"><text x="72" fill="#8b949e">Churn prediction: five local classifiers, a local LLM arbitrates 3–2 splits</text></g></g>
   
   <g transform="translate(0 472)"><g class="line" style="animation-delay:3.77s"><text x="28" fill="#d97757">●</text><text x="48" fill="#e6edf3">Last 12 months</text></g></g>
-  <g transform="translate(0 496)"><g class="line" style="animation-delay:3.89s"><text x="48" fill="#8b949e">⎿</text><text x="68" fill="#e6edf3">422 contributions · 156 public commits · 10 pull requests · 219 in private repos</text></g></g>
+  <g transform="translate(0 496)"><g class="line" style="animation-delay:3.89s"><text x="48" fill="#8b949e">⎿</text><text x="68" fill="#e6edf3">424 contributions · 158 public commits · 10 pull requests · 219 in private repos</text></g></g>
   
   <g transform="translate(0 544)"><g class="line" style="animation-delay:4.13s">
     <text x="28" fill="#d97757">&gt;</text><rect class="cursor" x="48" y="-9" width="9" height="18" fill="#e6edf3"/>
