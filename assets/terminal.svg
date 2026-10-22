@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Terminal: what is natan shipping these days? Recent projects: aws-kafka-async-payments, claude-usage-meter, agents-at-work, sql-cube-lab, ensemble-verdict-churn.">
+  <style>
+    text { font: 14px ui-monospace, SFMono-Regular, "Cascadia Code", Menlo, Consolas, monospace; white-space: pre; dominant-baseline: middle; }
+    .line { opacity: 0; animation: show 0.3s ease-out forwards; }
+    .typing { animation: type 1.6s steps(34) 0.4s forwards; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes show { from { opacity: 0; transform: translateX(-4px); } to { opacity: 1; } }
+    @keyframes type { to { transform: translateX(285.6px); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .line { animation: none; opacity: 1; }
+      .typing { display: none; }
+      .cursor { animation: none; }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="959" height="599" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="22" cy="20" r="6" fill="#ff5f57"/><circle cx="42" cy="20" r="6" fill="#febc2e"/><circle cx="62" cy="20" r="6" fill="#28c840"/>
+  <g transform="translate(0 20)"><text x="480" fill="#8b949e" text-anchor="middle">~/natansalvadorligabo</text></g>
+  <line x1="0" y1="40" x2="960" y2="40" stroke="#30363d"/>
+  <g transform="translate(0 64)">
+    <text x="28" fill="#d97757">&gt;</text><text x="48" fill="#e6edf3">what is natan shipping these days?</text>
+    <rect class="typing" x="48" y="-12" width="289.6" height="24" fill="#0d1117"/>
+  </g>
+  
+  <g transform="translate(0 112)"><g class="line" style="animation-delay:1.97s"><text x="28" fill="#d97757">●</text><text x="48" fill="#e6edf3">Querying the GitHub GraphQL API for @natansalvadorligabo</text></g></g>
+  <g transform="translate(0 136)"><g class="line" style="animation-delay:2.09s"><text x="48" fill="#8b949e">⎿</text><text x="68" fill="#8b949e">3 public projects pushed in the last 30 days</text></g></g>
+  
+  <g transform="translate(0 184)"><g class="line" style="animation-delay:2.33s"><text x="28" fill="#d97757">●</text><text x="48" fill="#e6edf3">Most recent pushes</text></g></g>
+  <g transform="translate(0 208)"><g class="line" style="animation-delay:2.45s"><text x="48" fill="#8b949e">⎿</text><text x="50" fill="#b07219">●</text><text x="72" fill="#e6edf3" font-weight="600">aws-kafka-async-payments</text><text x="300" fill="#8b949e">Java</text><text x="420" fill="#3fb950">today</text></g></g>
+  <g transform="translate(0 232)"><g class="line" style="animation-delay:2.57s"><text x="72" fill="#8b949e">Async PIX-inspired payments on SQS/Lambda with DLQ and idempotency, tested on LocalStack</text></g></g>
+  <g transform="translate(0 256)"><g class="line" style="animation-delay:2.69s"><text x="48" fill="#8b949e">⎿</text><text x="50" fill="#3178c6">●</text><text x="72" fill="#e6edf3" font-weight="600">claude-usage-meter</text><text x="300" fill="#8b949e">TypeScript</text><text x="420" fill="#3fb950">7d ago</text></g></g>
+  <g transform="translate(0 280)"><g class="line" style="animation-delay:2.81s"><text x="72" fill="#8b949e">Claude Code footer meter for context, session and weekly usage with a daily budget</text></g></g>
+  <g transform="translate(0 304)"><g class="line" style="animation-delay:2.93s"><text x="48" fill="#8b949e">⎿</text><text x="50" fill="#f1e05a">●</text><text x="72" fill="#e6edf3" font-weight="600">agents-at-work</text><text x="300" fill="#8b949e">JavaScript</text><text x="420" fill="#3fb950">8d ago</text></g></g>
+  <g transform="translate(0 328)"><g class="line" style="animation-delay:3.05s"><text x="72" fill="#8b949e">A 3D office that shows Claude Code agents and subagents working in real time</text></g></g>
+  <g transform="translate(0 352)"><g class="line" style="animation-delay:3.17s"><text x="48" fill="#8b949e">⎿</text><text x="50" fill="#663399">●</text><text x="72" fill="#e6edf3" font-weight="600">sql-cube-lab</text><text x="300" fill="#8b949e">CSS</text><text x="420" fill="#3fb950">4w ago</text></g></g>
+  <g transform="translate(0 376)"><g class="line" style="animation-delay:3.29s"><text x="72" fill="#8b949e">Interactive visual lab for learning SQL ROLLUP, and CUBE through 3D data exploration.</text></g></g>
+  <g transform="translate(0 400)"><g class="line" style="animation-delay:3.41s"><text x="48" fill="#8b949e">⎿</text><text x="50" fill="#3572A5">●</text><text x="72" fill="#e6edf3" font-weight="600">ensemble-verdict-churn</text><text x="300" fill="#8b949e">Python</text><text x="420" fill="#3fb950">6w ago</text></g></g>
+  <g transform="translate(0 424)"><g class="line" style="animation-delay:3.53s"><text x="72" fill="#8b949e">Churn prediction: five local classifiers, a local LLM arbitrates 3–2 splits</text></g></g>
+  
+  <g transform="translate(0 472)"><g class="line" style="animation-delay:3.77s"><text x="28" fill="#d97757">●</text><text x="48" fill="#e6edf3">Last 12 months</text></g></g>
+  <g transform="translate(0 496)"><g class="line" style="animation-delay:3.89s"><text x="48" fill="#8b949e">⎿</text><text x="68" fill="#e6edf3">422 contributions · 156 public commits · 10 pull requests · 219 in private repos</text></g></g>
+  
+  <g transform="translate(0 544)"><g class="line" style="animation-delay:4.13s">
+    <text x="28" fill="#d97757">&gt;</text><rect class="cursor" x="48" y="-9" width="9" height="18" fill="#e6edf3"/>
+  </g></g>
+  <g transform="translate(0 580)"><text x="932" fill="#8b949e" text-anchor="end" font-size="12">redrawn daily by GitHub Actions · 2026-10-22</text></g>
+</svg>
