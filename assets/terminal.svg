@@ -32,13 +32,13 @@
   <g transform="translate(0 280)"><g class="line" style="animation-delay:2.81s"><text x="72" fill="#8b949e">Claude Code footer meter for context, session and weekly usage with a daily budget</text></g></g>
   <g transform="translate(0 304)"><g class="line" style="animation-delay:2.93s"><text x="48" fill="#8b949e">⎿</text><text x="50" fill="#f1e05a">●</text><text x="72" fill="#e6edf3" font-weight="600">agents-at-work</text><text x="300" fill="#8b949e">JavaScript</text><text x="420" fill="#3fb950">8d ago</text></g></g>
   <g transform="translate(0 328)"><g class="line" style="animation-delay:3.05s"><text x="72" fill="#8b949e">A 3D office that shows Claude Code agents and subagents working in real time</text></g></g>
-  <g transform="translate(0 352)"><g class="line" style="animation-delay:3.17s"><text x="48" fill="#8b949e">⎿</text><text x="50" fill="#663399">●</text><text x="72" fill="#e6edf3" font-weight="600">sql-cube-lab</text><text x="300" fill="#8b949e">CSS</text><text x="420" fill="#3fb950">4w ago</text></g></g>
+  <g transform="translate(0 352)"><g class="line" style="animation-delay:3.17s"><text x="48" fill="#8b949e">⎿</text><text x="50" fill="#663399">●</text><text x="72" fill="#e6edf3" font-weight="600">sql-cube-lab</text><text x="300" fill="#8b949e">CSS</text><text x="420" fill="#3fb950">5w ago</text></g></g>
   <g transform="translate(0 376)"><g class="line" style="animation-delay:3.29s"><text x="72" fill="#8b949e">Interactive visual lab for learning SQL ROLLUP, and CUBE through 3D data exploration.</text></g></g>
   <g transform="translate(0 400)"><g class="line" style="animation-delay:3.41s"><text x="48" fill="#8b949e">⎿</text><text x="50" fill="#3572A5">●</text><text x="72" fill="#e6edf3" font-weight="600">ensemble-verdict-churn</text><text x="300" fill="#8b949e">Python</text><text x="420" fill="#3fb950">6w ago</text></g></g>
   <g transform="translate(0 424)"><g class="line" style="animation-delay:3.53s"><text x="72" fill="#8b949e">Churn prediction: five local classifiers, a local LLM arbitrates 3–2 splits</text></g></g>
   
   <g transform="translate(0 472)"><g class="line" style="animation-delay:3.77s"><text x="28" fill="#d97757">●</text><text x="48" fill="#e6edf3">Last 12 months</text></g></g>
-  <g transform="translate(0 496)"><g class="line" style="animation-delay:3.89s"><text x="48" fill="#8b949e">⎿</text><text x="68" fill="#e6edf3">424 contributions · 158 public commits · 10 pull requests · 219 in private repos</text></g></g>
+  <g transform="translate(0 496)"><g class="line" style="animation-delay:3.89s"><text x="48" fill="#8b949e">⎿</text><text x="68" fill="#e6edf3">440 contributions · 174 public commits · 10 pull requests · 219 in private repos</text></g></g>
   
   <g transform="translate(0 544)"><g class="line" style="animation-delay:4.13s">
     <text x="28" fill="#d97757">&gt;</text><rect class="cursor" x="48" y="-9" width="9" height="18" fill="#e6edf3"/>
